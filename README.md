@@ -1,5 +1,7 @@
 # Lane-Detection-Opencv
 This repository consists of program for Lane detection using Opencv.
+
+#.....................Functions..............................#
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
